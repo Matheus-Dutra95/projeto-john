@@ -1,7 +1,7 @@
-Contatos:
-Linkedin
-Github
-Whatsapp
+Contatos:<br>
+Linkedin <br>
+Github <br>
+Whatsapp <br>
 
-Projetos:
+Projetos:<br>
 Mundo John Wick
